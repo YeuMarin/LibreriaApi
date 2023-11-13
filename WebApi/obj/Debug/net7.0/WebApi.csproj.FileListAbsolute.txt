@@ -1,0 +1,309 @@
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\karin\source\repos\AplicacionEscuela\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.exe
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.deps.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.exe
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.deps.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.RazorAssemblyInfo.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.RazorAssemblyInfo.cs
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.pdb
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.exe
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.deps.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.runtimeconfig.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\WebApi.pdb
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.csproj.CopyComplete
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\WebApi\obj\Debug\net7.0\ref\WebApi.dll

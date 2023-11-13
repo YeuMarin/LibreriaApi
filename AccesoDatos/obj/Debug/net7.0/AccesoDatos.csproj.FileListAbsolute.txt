@@ -1,0 +1,56 @@
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\karin\source\repos\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\otros\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+D:\Documentos\ITL\11 SEMESTRE\Desarrollo de aplicaciones empresariales\Unidad 2\ExamenP2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.deps.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.runtimeconfig.json
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\bin\Debug\net7.0\AccesoDatos.pdb
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\refint\AccesoDatos.dll
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.pdb
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\yeudi\OneDrive\Documentos\Escuela\Semestre 11\Empresariales\Examen U2\AplicacionEscuela\AplicacionEscuela\AccesoDatos\obj\Debug\net7.0\ref\AccesoDatos.dll
